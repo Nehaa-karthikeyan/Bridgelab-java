@@ -1,4 +1,5 @@
-package Object_Oriented.Java_Constructors_Instance_ClassVariables.level1;
+package objectoriented.javaconstructorsinstanceclassvariables;
+
 class BankAccount {
     public int accountNumber;
     protected String accountHolder;
