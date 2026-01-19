@@ -1,6 +1,4 @@
-﻿# BridgeLabz_java
-
- # Bridgelabz_Java
+# Bridgelabz_Java
 This README will be continuously updated to document the concepts learned, hands-on assignments completed, and practical knowledge gained during the BridgeLabz Java training program.
 
 # 8th December 2025
@@ -66,4 +64,5 @@ Studied linked list data structures, including singly linked lists, doubly linke
 
 # 16th January 2026
 Made corrections and updates to the GitHub repository by properly organizing files, fixing mistakes, updating commits, and ensuring the repository structure follows best practices.
+
 
