@@ -74,5 +74,9 @@ revised the object oriented programming concepts.
 # 20th January 2026
 Gave my review in the object oriented concept and started with linked list programming.
 
+# 21st January 2026
+I completed the linked list programs,stack,queue,hashmap program and then pushed them into git.
+
+
 
 
