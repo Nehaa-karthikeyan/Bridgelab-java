@@ -89,6 +89,22 @@ I started studying stack, completed till uc4 in my oops-Banner-App and gave a re
 # 27th January 2026
 Completed my oops-Banner-App and revised the linked list.
 
+# 28th January 2026
+i got started with java generics and started studying sorting algorithms
+
+# 29th January 2026
+Completed my java generics and got started with java collections and studied stacks.
+
+# 30th January 2026
+Factory Robot Hazard Analyzer system.and studied for my review
+
+# 31st January 2026
+I gave my data structures review and i started with hacker rank.
+
+# 2nd Febuary 2026
+Completed java io streams and pushed it into git hub.
+
+
 
 
 
