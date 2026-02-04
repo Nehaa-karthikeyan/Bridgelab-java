@@ -104,6 +104,12 @@ I gave my data structures review and i started with hacker rank.
 # 2nd Febuary 2026
 Completed java io streams and pushed it into git hub.
 
+# 3rd Febuary 2026
+Completed exceptions and started with ocean fleat app
+
+# 4th Febuary 2026
+completed the ocean fleat app and pushed it to git hub.
+
 
 
 
